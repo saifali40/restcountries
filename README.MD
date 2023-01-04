@@ -89,3 +89,22 @@ https://country.saifali.in/api/v1/query?query=[query]
 ``` html
 https://country.saifali.in/api/v1/query?query=['*area<180 | area>3600']
 ```
+
+
+
+## Similar projects
+* [REST Countries]
+* [Countries of the world]
+* [REST Countries Node.js]
+* [REST Countries Ruby]
+* [REST Countries Go]
+* [REST Countries Python]
+* [world-currencies]
+
+[world-currencies]: https://github.com/wiredmax/world-currencies
+[REST Countries Node.js]: https://github.com/aredo/restcountries
+[REST Countries Ruby]: https://github.com/davidesantangelo/restcountry
+[REST Countries Go]: https://github.com/alediaferia/gocountries
+[REST Countries Python]: https://github.com/SteinRobert/python-restcountries
+[Countries of the world]: http://countries.petethompson.net
+[REST Countries]: https://gitlab.com/amatos/rest-countries
