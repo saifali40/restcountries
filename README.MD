@@ -35,20 +35,20 @@ https://country.saifali.in/api/v1/india
 ## Search
 These are fields that can be used to search for information about countries. Here is a brief description of each field:
 
-`name.common`: The common name of the country.
-`name.official`: The official name of the country.
-`cca2`: The two-letter code assigned to the country by the International Organization for Standardization (ISO).
-`cca3`: The three-letter code assigned to the country by the ISO.
-`independent`: Whether the country is independent or not.
-`capital`: The capital city of the country.
-`region`: The region of the world in which the country is located.
-`subregion`: The subregion of the region in which the country is located.
-`continents`: The continents on which the country is located.
-`languages`: The languages spoken in the country.
-`timezones`: The time zones observed in the country.
-`unMember`: Whether the country is a member of the United Nations or not.
-`altSpellings`: Alternative spellings of the country's name.
-`borders`: The countries that share a border with the country. the query should be `cca3`
+- `name.common`: The common name of the country.
+- `name.official`: The official name of the country.
+- `cca2`: The two-letter code assigned to the country by the International Organization for Standardization (ISO).
+- `cca3`: The three-letter code assigned to the country by the ISO.
+- `independent`: Whether the country is independent or not.
+- `capital`: The capital city of the country.
+- `region`: The region of the world in which the country is located.
+- `subregion`: The subregion of the region in which the country is located.
+- `continents`: The continents on which the country is located.
+- `languages`: The languages spoken in the country.
+- `timezones`: The time zones observed in the country.
+- `unMember`: Whether the country is a member of the United Nations or not.
+- `altSpellings`: Alternative spellings of the country's name.
+- `borders`: The countries that share a border with the country. the query should be `cca3`
 
 These fields can be used to search for specific information about a country or to compare different countries.
 
