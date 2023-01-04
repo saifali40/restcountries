@@ -180,7 +180,8 @@
         },
         "timezones": [
             "America/Aruba"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -378,7 +379,8 @@
         },
         "timezones": [
             "Asia/Kabul"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -567,7 +569,8 @@
         },
         "timezones": [
             "Africa/Luanda"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -747,7 +750,8 @@
         },
         "timezones": [
             "America/Anguilla"
-        ]
+        ],
+        "postal": "AI-2640"
     },
     {
         "name": {
@@ -930,7 +934,8 @@
         },
         "timezones": [
             "Europe/Mariehamn"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -1120,7 +1125,8 @@
         },
         "timezones": [
             "Europe/Tirane"
-        ]
+        ],
+        "postal": "(120|122)[0-9]{2}"
     },
     {
         "name": {
@@ -1305,7 +1311,8 @@
         },
         "timezones": [
             "Europe/Andorra"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -1493,7 +1500,8 @@
         },
         "timezones": [
             "Asia/Dubai"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -1699,7 +1707,8 @@
             "America/Argentina/San_Luis",
             "America/Argentina/Rio_Gallegos",
             "America/Argentina/Ushuaia"
-        ]
+        ],
+        "postal": "[A-Z]{1}[0-9]{4}[A-Z]{3}"
     },
     {
         "name": {
@@ -1889,7 +1898,8 @@
         },
         "timezones": [
             "Asia/Yerevan"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -2077,7 +2087,8 @@
         },
         "timezones": [
             "Pacific/Pago_Pago"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -2250,7 +2261,8 @@
             "Antarctica/Vostok",
             "Antarctica/DumontDUrville",
             "Antarctica/Syowa"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -2431,7 +2443,8 @@
         },
         "timezones": [
             "Indian/Kerguelen"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -2611,7 +2624,8 @@
         },
         "timezones": [
             "America/Antigua"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -2805,7 +2819,8 @@
             "Australia/Darwin",
             "Australia/Perth",
             "Australia/Eucla"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -2998,7 +3013,8 @@
         },
         "timezones": [
             "Europe/Vienna"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -3193,7 +3209,8 @@
         },
         "timezones": [
             "Asia/Baku"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -3387,7 +3404,8 @@
         },
         "timezones": [
             "Africa/Bujumbura"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -3592,7 +3610,8 @@
         },
         "timezones": [
             "Europe/Brussels"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -3781,7 +3800,8 @@
         },
         "timezones": [
             "Africa/Porto-Novo"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -3970,7 +3990,8 @@
         },
         "timezones": [
             "Africa/Ouagadougou"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -4157,7 +4178,8 @@
         },
         "timezones": [
             "Asia/Dhaka"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -4347,7 +4369,8 @@
         },
         "timezones": [
             "Europe/Sofia"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -4529,7 +4552,8 @@
         },
         "timezones": [
             "Asia/Bahrain"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -4714,7 +4738,8 @@
         },
         "timezones": [
             "America/Nassau"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -4912,7 +4937,8 @@
         },
         "timezones": [
             "Europe/Sarajevo"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -5095,7 +5121,8 @@
         },
         "timezones": [
             "America/St_Barthelemy"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -5282,7 +5309,8 @@
         },
         "timezones": [
             "Atlantic/St_Helena"
-        ]
+        ],
+        "postal": "STHL 1ZZ"
     },
     {
         "name": {
@@ -5479,7 +5507,8 @@
         },
         "timezones": [
             "Europe/Minsk"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -5674,7 +5703,8 @@
         },
         "timezones": [
             "America/Belize"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -5857,7 +5887,8 @@
         },
         "timezones": [
             "Atlantic/Bermuda"
-        ]
+        ],
+        "postal": "[A-Z]{2}[0-9]{2}"
     },
     {
         "name": {
@@ -6068,7 +6099,8 @@
         },
         "timezones": [
             "America/La_Paz"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -6255,7 +6287,8 @@
         },
         "timezones": [
             "America/Curacao"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -6466,7 +6499,8 @@
             "America/Manaus",
             "America/Eirunepe",
             "America/Rio_Branco"
-        ]
+        ],
+        "postal": "[0-9]{5}-[0-9]{3}"
     },
     {
         "name": {
@@ -6646,7 +6680,8 @@
         },
         "timezones": [
             "America/Barbados"
-        ]
+        ],
+        "postal": "BB[0-9]{5}"
     },
     {
         "name": {
@@ -6835,7 +6870,8 @@
         },
         "timezones": [
             "Asia/Brunei"
-        ]
+        ],
+        "postal": "[A-Z]{2}[0-9]{4}"
     },
     {
         "name": {
@@ -7025,7 +7061,8 @@
         },
         "timezones": [
             "Asia/Thimphu"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -7200,7 +7237,8 @@
         },
         "timezones": [
             null
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -7394,7 +7432,8 @@
         },
         "timezones": [
             "Africa/Gaborone"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -7590,7 +7629,8 @@
         },
         "timezones": [
             "Africa/Bangui"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -7806,7 +7846,8 @@
             "America/Vancouver",
             "America/Whitehorse",
             "America/Dawson"
-        ]
+        ],
+        "postal": "[A-Z][0-9][A-Z] ?[0-9][A-Z][0-9]"
     },
     {
         "name": {
@@ -7988,7 +8029,8 @@
         },
         "timezones": [
             "Indian/Cocos"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -8196,7 +8238,8 @@
         },
         "timezones": [
             "Europe/Zurich"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -8385,7 +8428,8 @@
         "timezones": [
             "America/Santiago",
             "Pacific/Easter"
-        ]
+        ],
+        "postal": "[0-9]{7}"
     },
     {
         "name": {
@@ -8594,7 +8638,8 @@
             "Asia/Chongqing",
             "Asia/Urumqi",
             "Asia/Kashgar"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -8786,7 +8831,8 @@
         },
         "timezones": [
             "Africa/Abidjan"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -8982,7 +9028,8 @@
         },
         "timezones": [
             "Africa/Douala"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -9199,7 +9246,8 @@
         "timezones": [
             "Africa/Kinshasa",
             "Africa/Lubumbashi"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -9399,7 +9447,8 @@
         },
         "timezones": [
             "Africa/Brazzaville"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -9589,7 +9638,8 @@
         },
         "timezones": [
             "Pacific/Rarotonga"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -9779,7 +9829,8 @@
         },
         "timezones": [
             "America/Bogota"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -9975,7 +10026,8 @@
         },
         "timezones": [
             "Indian/Comoro"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -10159,7 +10211,8 @@
         },
         "timezones": [
             "Atlantic/Cape_Verde"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -10346,7 +10399,8 @@
         },
         "timezones": [
             "America/Costa_Rica"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -10532,7 +10586,8 @@
         },
         "timezones": [
             "America/Havana"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -10719,7 +10774,8 @@
         },
         "timezones": [
             "America/Curacao"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -10900,7 +10956,8 @@
         },
         "timezones": [
             "Indian/Christmas"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -11080,7 +11137,8 @@
         },
         "timezones": [
             "America/Cayman"
-        ]
+        ],
+        "postal": "[A-Z]{2}[0-9]-[0-9]{4}"
     },
     {
         "name": {
@@ -11272,7 +11330,8 @@
         },
         "timezones": [
             "Asia/Nicosia"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -11466,7 +11525,8 @@
         },
         "timezones": [
             "Europe/Prague"
-        ]
+        ],
+        "postal": "[0-9]{3} [0-9]{2}"
     },
     {
         "name": {
@@ -11661,7 +11721,8 @@
         "timezones": [
             "Europe/Berlin",
             "Europe/Busingen"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -11858,7 +11919,8 @@
         },
         "timezones": [
             "Africa/Djibouti"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -12041,7 +12103,8 @@
         },
         "timezones": [
             "America/Dominica"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -12228,7 +12291,8 @@
         },
         "timezones": [
             "Europe/Copenhagen"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -12414,7 +12478,8 @@
         },
         "timezones": [
             "America/Santo_Domingo"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -12607,7 +12672,8 @@
         },
         "timezones": [
             "Africa/Algiers"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -12795,7 +12861,8 @@
         "timezones": [
             "America/Guayaquil",
             "Pacific/Galapagos"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -12985,7 +13052,8 @@
         },
         "timezones": [
             "Africa/Cairo"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -13184,7 +13252,8 @@
         },
         "timezones": [
             "Africa/Asmara"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -13388,7 +13457,8 @@
         },
         "timezones": [
             "Africa/El_Aaiun"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -13580,7 +13650,8 @@
             "Europe/Madrid",
             "Africa/Ceuta",
             "Atlantic/Canary"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -13768,7 +13839,8 @@
         },
         "timezones": [
             "Europe/Tallinn"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -13960,7 +14032,8 @@
         },
         "timezones": [
             "Africa/Addis_Ababa"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -14155,7 +14228,8 @@
         },
         "timezones": [
             "Europe/Helsinki"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -14351,7 +14425,8 @@
         },
         "timezones": [
             "Pacific/Fiji"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -14533,7 +14608,8 @@
         },
         "timezones": [
             "Atlantic/Stanley"
-        ]
+        ],
+        "postal": "FIQQ 1ZZ"
     },
     {
         "name": {
@@ -14726,7 +14802,8 @@
         },
         "timezones": [
             "Europe/Paris"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -14917,7 +14994,8 @@
         },
         "timezones": [
             "Atlantic/Faroe"
-        ]
+        ],
+        "postal": "[0-9]{3}"
     },
     {
         "name": {
@@ -15103,7 +15181,8 @@
             "Pacific/Chuuk",
             "Pacific/Pohnpei",
             "Pacific/Kosrae"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -15291,7 +15370,8 @@
         },
         "timezones": [
             "Africa/Libreville"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -15477,7 +15557,8 @@
         },
         "timezones": [
             "Europe/London"
-        ]
+        ],
+        "postal": "([Gg][Ii][Rr] 0[Aa]{2})|((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([A-Za-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9][A-Za-z]?))))\\s?[0-9][A-Za-z]{2})"
     },
     {
         "name": {
@@ -15665,7 +15746,8 @@
         },
         "timezones": [
             "Asia/Tbilisi"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -15861,7 +15943,8 @@
         },
         "timezones": [
             "Europe/Guernsey"
-        ]
+        ],
+        "postal": "([Gg][Ii][Rr] 0[Aa]{2})|((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([A-Za-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9][A-Za-z]?))))\\s?[0-9][A-Za-z]{2})"
     },
     {
         "name": {
@@ -16047,7 +16130,8 @@
         },
         "timezones": [
             "Africa/Accra"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -16229,7 +16313,8 @@
         },
         "timezones": [
             "Europe/Gibraltar"
-        ]
+        ],
+        "postal": "GX11 1AA"
     },
     {
         "name": {
@@ -16420,7 +16505,8 @@
         },
         "timezones": [
             "Africa/Conakry"
-        ]
+        ],
+        "postal": "[0-9]{3}"
     },
     {
         "name": {
@@ -16601,7 +16687,8 @@
         },
         "timezones": [
             "America/Guadeloupe"
-        ]
+        ],
+        "postal": "971[0-9]{2}"
     },
     {
         "name": {
@@ -16786,7 +16873,8 @@
         },
         "timezones": [
             "Africa/Banjul"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -16978,7 +17066,8 @@
         },
         "timezones": [
             "Africa/Bissau"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -17175,7 +17264,8 @@
         },
         "timezones": [
             "Africa/Malabo"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -17365,7 +17455,8 @@
         },
         "timezones": [
             "Europe/Athens"
-        ]
+        ],
+        "postal": "[0-9]{3} [0-9]{2}"
     },
     {
         "name": {
@@ -17545,7 +17636,8 @@
         },
         "timezones": [
             "America/Grenada"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -17729,7 +17821,8 @@
             "America/Danmarkshavn",
             "America/Scoresbysund",
             "America/Thule"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -17916,7 +18009,8 @@
         },
         "timezones": [
             "America/Guatemala"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -18101,7 +18195,8 @@
         },
         "timezones": [
             "America/Cayenne"
-        ]
+        ],
+        "postal": "973[0-9]{2}"
     },
     {
         "name": {
@@ -18292,7 +18387,8 @@
         },
         "timezones": [
             "Pacific/Guam"
-        ]
+        ],
+        "postal": "\\d{5}(?:[-\\s]\\d{4})?"
     },
     {
         "name": {
@@ -18479,7 +18575,8 @@
         },
         "timezones": [
             "America/Guyana"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -18663,7 +18760,8 @@
         },
         "timezones": [
             "Asia/Hong_Kong"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -18836,7 +18934,8 @@
         },
         "timezones": [
             null
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -19024,7 +19123,8 @@
         },
         "timezones": [
             "America/Tegucigalpa"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -19215,7 +19315,8 @@
         },
         "timezones": [
             "Europe/Zagreb"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -19407,7 +19508,8 @@
         },
         "timezones": [
             "America/Port-au-Prince"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -19597,7 +19699,8 @@
         },
         "timezones": [
             "Europe/Budapest"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -19788,7 +19891,8 @@
             "Asia/Pontianak",
             "Asia/Makassar",
             "Asia/Jayapura"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -19980,7 +20084,8 @@
         },
         "timezones": [
             "Europe/Isle_of_Man"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -20183,7 +20288,8 @@
         },
         "timezones": [
             "Asia/Kolkata"
-        ]
+        ],
+        "postal": "[1-9][0-9]{5}"
     },
     {
         "name": {
@@ -20363,7 +20469,8 @@
         },
         "timezones": [
             "Indian/Chagos"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -20555,7 +20662,8 @@
         },
         "timezones": [
             "Europe/Dublin"
-        ]
+        ],
+        "postal": "(?:^[AC-FHKNPRTV-Y][0-9]{2}|D6W)[ -]?[0-9AC-FHKNPRTV-Y]{4}$"
     },
     {
         "name": {
@@ -20745,7 +20853,8 @@
         },
         "timezones": [
             "Asia/Tehran"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -20946,7 +21055,8 @@
         },
         "timezones": [
             "Asia/Baghdad"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -21131,7 +21241,8 @@
         },
         "timezones": [
             "Atlantic/Reykjavik"
-        ]
+        ],
+        "postal": "[0-9]{3}"
     },
     {
         "name": {
@@ -21326,7 +21437,8 @@
         },
         "timezones": [
             "Asia/Jerusalem"
-        ]
+        ],
+        "postal": "[0-9]{5}|[0-9]{7}"
     },
     {
         "name": {
@@ -21517,7 +21629,8 @@
         },
         "timezones": [
             "Europe/Rome"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -21704,7 +21817,8 @@
         },
         "timezones": [
             "America/Jamaica"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -21901,7 +22015,8 @@
         },
         "timezones": [
             "Europe/Jersey"
-        ]
+        ],
+        "postal": "([Gg][Ii][Rr] 0[Aa]{2})|((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([A-Za-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9][A-Za-z]?))))\\s?[0-9][A-Za-z]{2})"
     },
     {
         "name": {
@@ -22092,7 +22207,8 @@
         },
         "timezones": [
             "Asia/Amman"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -22277,7 +22393,8 @@
         },
         "timezones": [
             "Asia/Tokyo"
-        ]
+        ],
+        "postal": "[0-9]{3}-[0-9]{4}"
     },
     {
         "name": {
@@ -22484,7 +22601,8 @@
             "Asia/Aqtobe",
             "Asia/Aqtau",
             "Asia/Oral"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -22679,7 +22797,8 @@
         },
         "timezones": [
             "Africa/Nairobi"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -22875,7 +22994,8 @@
         },
         "timezones": [
             "Asia/Bishkek"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -23064,7 +23184,8 @@
         },
         "timezones": [
             "Asia/Phnom_Penh"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -23259,7 +23380,8 @@
             "Pacific/Tarawa",
             "Pacific/Enderbury",
             "Pacific/Kiritimati"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -23440,7 +23562,8 @@
         },
         "timezones": [
             "America/St_Kitts"
-        ]
+        ],
+        "postal": "[A-Z]{2}[0-9]{4}"
     },
     {
         "name": {
@@ -23629,7 +23752,8 @@
         },
         "timezones": [
             "Asia/Seoul"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -23816,7 +23940,8 @@
         },
         "timezones": [
             "Europe/Belgrade"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -24001,7 +24126,8 @@
         },
         "timezones": [
             "Asia/Kuwait"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -24192,7 +24318,8 @@
         },
         "timezones": [
             "Asia/Vientiane"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -24384,7 +24511,8 @@
         },
         "timezones": [
             "Asia/Beirut"
-        ]
+        ],
+        "postal": "[0-9]{4} [0-9]{4}"
     },
     {
         "name": {
@@ -24571,7 +24699,8 @@
         },
         "timezones": [
             "Africa/Monrovia"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -24760,7 +24889,8 @@
         },
         "timezones": [
             "Africa/Tripoli"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -24942,7 +25072,8 @@
         },
         "timezones": [
             "America/St_Lucia"
-        ]
+        ],
+        "postal": "[A-Z]{2}[0-9]{2} [0-9]{3}"
     },
     {
         "name": {
@@ -25127,7 +25258,8 @@
         },
         "timezones": [
             "Europe/Vaduz"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -25320,7 +25452,8 @@
         },
         "timezones": [
             "Asia/Colombo"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -25515,7 +25648,8 @@
         },
         "timezones": [
             "Africa/Maseru"
-        ]
+        ],
+        "postal": "[0-9]{3}"
     },
     {
         "name": {
@@ -25704,7 +25838,8 @@
         },
         "timezones": [
             "Europe/Vilnius"
-        ]
+        ],
+        "postal": "LT-[0-9]{5}"
     },
     {
         "name": {
@@ -25904,7 +26039,8 @@
         },
         "timezones": [
             "Europe/Luxembourg"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -26093,7 +26229,8 @@
         },
         "timezones": [
             "Europe/Riga"
-        ]
+        ],
+        "postal": "LV-[0-9]{4}"
     },
     {
         "name": {
@@ -26279,7 +26416,8 @@
         },
         "timezones": [
             "Asia/Macau"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -26465,7 +26603,8 @@
         },
         "timezones": [
             "America/Marigot"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -26659,7 +26798,8 @@
         },
         "timezones": [
             "Africa/Casablanca"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -26843,7 +26983,8 @@
         },
         "timezones": [
             "Europe/Monaco"
-        ]
+        ],
+        "postal": "980[0-9]{2}"
     },
     {
         "name": {
@@ -27031,7 +27172,8 @@
         },
         "timezones": [
             "Europe/Chisinau"
-        ]
+        ],
+        "postal": "MD-?[0-9]{4}"
     },
     {
         "name": {
@@ -27221,7 +27363,8 @@
         },
         "timezones": [
             "Indian/Antananarivo"
-        ]
+        ],
+        "postal": "[0-9]{3}"
     },
     {
         "name": {
@@ -27406,7 +27549,8 @@
         },
         "timezones": [
             "Indian/Maldives"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -27606,7 +27750,8 @@
             "America/Tijuana",
             "America/Santa_Isabel",
             "America/Bahia_Banderas"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -27794,7 +27939,8 @@
         "timezones": [
             "Pacific/Majuro",
             "Pacific/Kwajalein"
-        ]
+        ],
+        "postal": "\\d{5}(?:[-\\s]\\d{4})?"
     },
     {
         "name": {
@@ -27986,7 +28132,8 @@
         },
         "timezones": [
             "Europe/Skopje"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -28178,7 +28325,8 @@
         },
         "timezones": [
             "Africa/Bamako"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -28367,7 +28515,8 @@
         },
         "timezones": [
             "Europe/Malta"
-        ]
+        ],
+        "postal": "[A-Z]{3} [0-9]{4}"
     },
     {
         "name": {
@@ -28558,7 +28707,8 @@
         },
         "timezones": [
             "Asia/Rangoon"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -28747,7 +28897,8 @@
         },
         "timezones": [
             "Europe/Podgorica"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -28934,7 +29085,8 @@
             "Asia/Ulaanbaatar",
             "Asia/Hovd",
             "Asia/Choibalsan"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -29126,7 +29278,8 @@
         },
         "timezones": [
             "Pacific/Saipan"
-        ]
+        ],
+        "postal": "^\\d{5}(?:[-\\s]\\d{4})?$"
     },
     {
         "name": {
@@ -29317,7 +29470,8 @@
         },
         "timezones": [
             "Africa/Maputo"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -29506,7 +29660,8 @@
         },
         "timezones": [
             "Africa/Nouakchott"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -29686,7 +29841,8 @@
         },
         "timezones": [
             "America/Montserrat"
-        ]
+        ],
+        "postal": "MSR [0-9]{4}"
     },
     {
         "name": {
@@ -29866,7 +30022,8 @@
         },
         "timezones": [
             "America/Martinique"
-        ]
+        ],
+        "postal": "972[0-9]{2}"
     },
     {
         "name": {
@@ -30060,7 +30217,8 @@
         },
         "timezones": [
             "Indian/Mauritius"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -30252,7 +30410,8 @@
         },
         "timezones": [
             "Africa/Blantyre"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -30444,7 +30603,8 @@
         "timezones": [
             "Asia/Kuala_Lumpur",
             "Asia/Kuching"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -30626,7 +30786,8 @@
         },
         "timezones": [
             "Indian/Mayotte"
-        ]
+        ],
+        "postal": "976[0-9]{2}"
     },
     {
         "name": {
@@ -30859,7 +31020,8 @@
         },
         "timezones": [
             "Africa/Windhoek"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -31039,7 +31201,8 @@
         },
         "timezones": [
             "Pacific/Noumea"
-        ]
+        ],
+        "postal": "988[0-9]{2}"
     },
     {
         "name": {
@@ -31230,7 +31393,8 @@
         },
         "timezones": [
             "Africa/Niamey"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -31417,7 +31581,8 @@
         },
         "timezones": [
             "Pacific/Norfolk"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -31607,7 +31772,8 @@
         },
         "timezones": [
             "Africa/Lagos"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -31794,7 +31960,8 @@
         },
         "timezones": [
             "America/Managua"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -31979,7 +32146,8 @@
         },
         "timezones": [
             "Pacific/Niue"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -32167,7 +32335,8 @@
         },
         "timezones": [
             "Europe/Amsterdam"
-        ]
+        ],
+        "postal": "(?:NL-)?(\\d{4})\\s*([A-Z]{2})"
     },
     {
         "name": {
@@ -32368,7 +32537,8 @@
         },
         "timezones": [
             "Europe/Oslo"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -32555,7 +32725,8 @@
         },
         "timezones": [
             "Asia/Kathmandu"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -32746,7 +32917,8 @@
         },
         "timezones": [
             "Pacific/Nauru"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -32938,7 +33110,8 @@
         "timezones": [
             "Pacific/Auckland",
             "Pacific/Chatham"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -33124,7 +33297,8 @@
         },
         "timezones": [
             "Asia/Muscat"
-        ]
+        ],
+        "postal": "[0-9]{3}"
     },
     {
         "name": {
@@ -33319,7 +33493,8 @@
         },
         "timezones": [
             "Asia/Karachi"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -33510,7 +33685,8 @@
         },
         "timezones": [
             "America/Panama"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -33692,7 +33868,8 @@
         },
         "timezones": [
             "Pacific/Pitcairn"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -33892,7 +34069,8 @@
         },
         "timezones": [
             "America/Lima"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -34081,7 +34259,8 @@
         },
         "timezones": [
             "Asia/Manila"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -34268,7 +34447,8 @@
         },
         "timezones": [
             "Pacific/Palau"
-        ]
+        ],
+        "postal": "\\d{5}(?:[-\\s]\\d{4})?"
     },
     {
         "name": {
@@ -34464,7 +34644,8 @@
         },
         "timezones": [
             "Pacific/Port_Moresby"
-        ]
+        ],
+        "postal": "[0-9]{3}"
     },
     {
         "name": {
@@ -34656,7 +34837,8 @@
         },
         "timezones": [
             "Europe/Warsaw"
-        ]
+        ],
+        "postal": "[0-9]{2}-[0-9]{3}"
     },
     {
         "name": {
@@ -34844,7 +35026,8 @@
         },
         "timezones": [
             "America/Puerto_Rico"
-        ]
+        ],
+        "postal": "\\d{5}(?:[-\\s]\\d{4})?"
     },
     {
         "name": {
@@ -35035,7 +35218,8 @@
         },
         "timezones": [
             "Asia/Pyongyang"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -35224,7 +35408,8 @@
             "Europe/Lisbon",
             "Atlantic/Madeira",
             "Atlantic/Azores"
-        ]
+        ],
+        "postal": "[0-9]{4}-[0-9]{3}"
     },
     {
         "name": {
@@ -35418,7 +35603,8 @@
         },
         "timezones": [
             "America/Asuncion"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -35617,7 +35803,8 @@
         "timezones": [
             "Asia/Gaza",
             "Asia/Hebron"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -35802,7 +35989,8 @@
             "Pacific/Tahiti",
             "Pacific/Marquesas",
             "Pacific/Gambier"
-        ]
+        ],
+        "postal": "987[0-9]{2}"
     },
     {
         "name": {
@@ -35987,7 +36175,8 @@
         },
         "timezones": [
             "Asia/Qatar"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -36168,7 +36357,8 @@
         },
         "timezones": [
             "Indian/Reunion"
-        ]
+        ],
+        "postal": "974[0-9]{2}"
     },
     {
         "name": {
@@ -36359,7 +36549,8 @@
         },
         "timezones": [
             "Europe/Bucharest"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -36582,7 +36773,8 @@
             "Asia/Magadan",
             "Asia/Kamchatka",
             "Asia/Anadyr"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -36782,7 +36974,8 @@
         },
         "timezones": [
             "Africa/Kigali"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -36974,7 +37167,8 @@
         },
         "timezones": [
             "Asia/Riyadh"
-        ]
+        ],
+        "postal": "[0-9]{5}(-[0-9]{4})?"
     },
     {
         "name": {
@@ -37171,7 +37365,8 @@
         },
         "timezones": [
             "Africa/Khartoum"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -37361,7 +37556,8 @@
         },
         "timezones": [
             "Africa/Dakar"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -37557,7 +37753,8 @@
         },
         "timezones": [
             "Asia/Singapore"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -37738,7 +37935,8 @@
         },
         "timezones": [
             "Atlantic/South_Georgia"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -37919,7 +38117,8 @@
         },
         "timezones": [
             "Arctic/Longyearbyen"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -38101,7 +38300,8 @@
         },
         "timezones": [
             "Pacific/Guadalcanal"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -38287,7 +38487,8 @@
         },
         "timezones": [
             "Africa/Freetown"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -38474,7 +38675,8 @@
         },
         "timezones": [
             "America/El_Salvador"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -38658,7 +38860,8 @@
         },
         "timezones": [
             "Europe/San_Marino"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -38853,7 +39056,8 @@
         },
         "timezones": [
             "Africa/Mogadishu"
-        ]
+        ],
+        "postal": "[A-Z]{2} [0-9]{5}"
     },
     {
         "name": {
@@ -39034,7 +39238,8 @@
         },
         "timezones": [
             "America/Miquelon"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -39230,7 +39435,8 @@
         },
         "timezones": [
             "Europe/Belgrade"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -39419,7 +39625,8 @@
         },
         "timezones": [
             "Africa/Juba"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -39604,7 +39811,8 @@
         },
         "timezones": [
             "Africa/Sao_Tome"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -39794,7 +40002,8 @@
         },
         "timezones": [
             "America/Paramaribo"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -39984,7 +40193,8 @@
         },
         "timezones": [
             "Europe/Bratislava"
-        ]
+        ],
+        "postal": "[0-9]{3} [0-9]{2}"
     },
     {
         "name": {
@@ -40173,7 +40383,8 @@
         },
         "timezones": [
             "Europe/Ljubljana"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -40360,7 +40571,8 @@
         },
         "timezones": [
             "Europe/Stockholm"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -40560,7 +40772,8 @@
         },
         "timezones": [
             "Africa/Mbabane"
-        ]
+        ],
+        "postal": "[A-Z]{1}[0-9]{3}"
     },
     {
         "name": {
@@ -40753,7 +40966,8 @@
         },
         "timezones": [
             "America/Guadeloupe"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -40948,7 +41162,8 @@
         },
         "timezones": [
             "Indian/Mahe"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -41139,7 +41354,8 @@
         },
         "timezones": [
             "Asia/Damascus"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -41319,7 +41535,8 @@
         },
         "timezones": [
             "America/Grand_Turk"
-        ]
+        ],
+        "postal": "TKCA 1ZZ"
     },
     {
         "name": {
@@ -41517,7 +41734,8 @@
         },
         "timezones": [
             "Africa/Ndjamena"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -41706,7 +41924,8 @@
         },
         "timezones": [
             "Africa/Lome"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -41899,7 +42118,8 @@
         },
         "timezones": [
             "Asia/Bangkok"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -42095,7 +42315,8 @@
         },
         "timezones": [
             "Asia/Dushanbe"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -42285,7 +42506,8 @@
         },
         "timezones": [
             "Pacific/Fakaofo"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -42477,7 +42699,8 @@
         },
         "timezones": [
             "Asia/Ashgabat"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -42672,7 +42895,8 @@
         },
         "timezones": [
             "Asia/Dili"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -42859,7 +43083,8 @@
         },
         "timezones": [
             "Pacific/Tongatapu"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -43042,7 +43267,8 @@
         },
         "timezones": [
             "America/Port_of_Spain"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -43229,7 +43455,8 @@
         },
         "timezones": [
             "Africa/Tunis"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -43424,7 +43651,8 @@
         },
         "timezones": [
             "Europe/Istanbul"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -43615,7 +43843,8 @@
         },
         "timezones": [
             "Pacific/Funafuti"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -43798,7 +44027,8 @@
         },
         "timezones": [
             "Asia/Taipei"
-        ]
+        ],
+        "postal": "[0-9]{3}(-[0-9]{2})?"
     },
     {
         "name": {
@@ -43997,7 +44227,8 @@
         },
         "timezones": [
             "Africa/Dar_es_Salaam"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -44192,7 +44423,8 @@
         },
         "timezones": [
             "Africa/Kampala"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -44387,7 +44619,8 @@
             "Europe/Uzhgorod",
             "Europe/Zaporozhye",
             "Europe/Simferopol"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -44567,7 +44800,8 @@
             "Pacific/Johnston",
             "Pacific/Midway",
             "Pacific/Wake"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -44754,7 +44988,8 @@
         },
         "timezones": [
             "America/Montevideo"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -45286,7 +45521,8 @@
             "America/Adak",
             "America/Metlakatla",
             "Pacific/Honolulu"
-        ]
+        ],
+        "postal": "\\d{5}(?:[-\\s]\\d{4})?"
     },
     {
         "name": {
@@ -45483,7 +45719,8 @@
         "timezones": [
             "Asia/Samarkand",
             "Asia/Tashkent"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -45674,7 +45911,8 @@
         },
         "timezones": [
             "Europe/Vatican"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -45854,7 +46092,8 @@
         },
         "timezones": [
             "America/St_Vincent"
-        ]
+        ],
+        "postal": "VC[0-9]{4}"
     },
     {
         "name": {
@@ -46043,7 +46282,8 @@
         },
         "timezones": [
             "America/Caracas"
-        ]
+        ],
+        "postal": "[0-9]{4}(-[A-Z]{1})?"
     },
     {
         "name": {
@@ -46224,7 +46464,8 @@
         },
         "timezones": [
             "America/Tortola"
-        ]
+        ],
+        "postal": "VG[0-9]{4}"
     },
     {
         "name": {
@@ -46405,7 +46646,8 @@
         },
         "timezones": [
             "America/St_Thomas"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -46594,7 +46836,8 @@
         },
         "timezones": [
             "Asia/Ho_Chi_Minh"
-        ]
+        ],
+        "postal": "[0-9]{6}"
     },
     {
         "name": {
@@ -46789,7 +47032,8 @@
         },
         "timezones": [
             "Pacific/Efate"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -46971,7 +47215,8 @@
         },
         "timezones": [
             "Pacific/Wallis"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -47160,7 +47405,8 @@
         },
         "timezones": [
             "Pacific/Apia"
-        ]
+        ],
+        "postal": "WS[0-9]{4}"
     },
     {
         "name": {
@@ -47347,7 +47593,8 @@
         },
         "timezones": [
             "Asia/Aden"
-        ]
+        ],
+        "postal": ""
     },
     {
         "name": {
@@ -47591,7 +47838,8 @@
         },
         "timezones": [
             "Africa/Johannesburg"
-        ]
+        ],
+        "postal": "[0-9]{4}"
     },
     {
         "name": {
@@ -47783,7 +48031,8 @@
         },
         "timezones": [
             "Africa/Lusaka"
-        ]
+        ],
+        "postal": "[0-9]{5}"
     },
     {
         "name": {
@@ -48041,6 +48290,7 @@
         },
         "timezones": [
             "Africa/Harare"
-        ]
+        ],
+        "postal": ""
     }
 ]

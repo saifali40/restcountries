@@ -10,8 +10,8 @@ const header = {
   "Access-Control-Allow-Methods": "GET",
   "Access-Control-Allow-Origin": "*",
   "Content-Type": "application/json",
-  "Cache-Control": "s-maxage=10",
-  "Access-Control-Max-Age": "1",
+  "Cache-Control": "s-maxage=43200",
+  "Access-Control-Max-Age": "43200",
 };
 
 
@@ -21,6 +21,22 @@ const options = {includeScore:0.9,useExtendedSearch:true, keys: ['name.common', 
 const myIndex = Fuse.createIndex(options.keys, countries)
 // initialize Fuse with the index
 const fuse = new Fuse(countries, options, myIndex)
+
+
+const missingHandler = () => new Response(JSON.stringify({ code: 404, Messge: "not found" }),
+{
+  headers: header,
+  status: 404,
+})
+
+
+
+const errorHandler = error =>
+new Response(JSON.stringify({ code: 500, Messge: error.message || 'Server Error' }),
+{
+  headers: header,
+  status: 500,
+})
 
 router.get('/api', async ({ params }, env) => {
   return new Response(JSON.stringify(countries), {
@@ -42,10 +58,12 @@ router.get('/api/query', async ({ query }, env) => {
   })
 })
 
-router.get('/api/name/:id', async ({ params }, env) => {
-  let id:number = index[decodeURI(params.id)];
+router.get('/api/:id', async ({ params }, env) => {
+  let id:number = index[decodeURI(params.id?.toLowerCase())];
   return responseByIndex(id);
 })
+
+router.all("*",missingHandler)
 
 async function responseByIndex(id:number){
   if (id){
@@ -63,6 +81,10 @@ async function responseByIndex(id:number){
 }
 
 
-export default {
-  fetch: router.handle,
-}
+addEventListener('fetch', event =>
+  event.respondWith(
+    router
+      .handle(event.request)
+      .catch(errorHandler)
+  )
+)
