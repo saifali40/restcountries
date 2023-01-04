@@ -1,0 +1,8 @@
+name = "country"
+main = "src/index.ts"
+compatibility_date = "2023-01-04"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]

@@ -1,0 +1,1257 @@
+{
+    "america/aruba": [
+        0
+    ],
+    "asia/kabul": [
+        1
+    ],
+    "africa/luanda": [
+        2
+    ],
+    "america/anguilla": [
+        3
+    ],
+    "europe/mariehamn": [
+        4
+    ],
+    "europe/tirane": [
+        5
+    ],
+    "europe/andorra": [
+        6
+    ],
+    "asia/dubai": [
+        7
+    ],
+    "america/argentina/buenos_aires": [
+        8
+    ],
+    "america/argentina/cordoba": [
+        8
+    ],
+    "america/argentina/salta": [
+        8
+    ],
+    "america/argentina/jujuy": [
+        8
+    ],
+    "america/argentina/tucuman": [
+        8
+    ],
+    "america/argentina/catamarca": [
+        8
+    ],
+    "america/argentina/la_rioja": [
+        8
+    ],
+    "america/argentina/san_juan": [
+        8
+    ],
+    "america/argentina/mendoza": [
+        8
+    ],
+    "america/argentina/san_luis": [
+        8
+    ],
+    "america/argentina/rio_gallegos": [
+        8
+    ],
+    "america/argentina/ushuaia": [
+        8
+    ],
+    "asia/yerevan": [
+        9
+    ],
+    "pacific/pago_pago": [
+        10
+    ],
+    "antarctica/mcmurdo": [
+        11
+    ],
+    "antarctica/south_pole": [
+        11
+    ],
+    "antarctica/rothera": [
+        11
+    ],
+    "antarctica/palmer": [
+        11
+    ],
+    "antarctica/mawson": [
+        11
+    ],
+    "antarctica/davis": [
+        11
+    ],
+    "antarctica/casey": [
+        11
+    ],
+    "antarctica/vostok": [
+        11
+    ],
+    "antarctica/dumontdurville": [
+        11
+    ],
+    "antarctica/syowa": [
+        11
+    ],
+    "indian/kerguelen": [
+        12
+    ],
+    "america/antigua": [
+        13
+    ],
+    "australia/lord_howe": [
+        14
+    ],
+    "antarctica/macquarie": [
+        14
+    ],
+    "australia/hobart": [
+        14
+    ],
+    "australia/currie": [
+        14
+    ],
+    "australia/melbourne": [
+        14
+    ],
+    "australia/sydney": [
+        14
+    ],
+    "australia/broken_hill": [
+        14
+    ],
+    "australia/brisbane": [
+        14
+    ],
+    "australia/lindeman": [
+        14
+    ],
+    "australia/adelaide": [
+        14
+    ],
+    "australia/darwin": [
+        14
+    ],
+    "australia/perth": [
+        14
+    ],
+    "australia/eucla": [
+        14
+    ],
+    "europe/vienna": [
+        15
+    ],
+    "asia/baku": [
+        16
+    ],
+    "africa/bujumbura": [
+        17
+    ],
+    "europe/brussels": [
+        18
+    ],
+    "africa/porto-novo": [
+        19
+    ],
+    "africa/ouagadougou": [
+        20
+    ],
+    "asia/dhaka": [
+        21
+    ],
+    "europe/sofia": [
+        22
+    ],
+    "asia/bahrain": [
+        23
+    ],
+    "america/nassau": [
+        24
+    ],
+    "europe/sarajevo": [
+        25
+    ],
+    "america/st_barthelemy": [
+        26
+    ],
+    "atlantic/st_helena": [
+        27
+    ],
+    "europe/minsk": [
+        28
+    ],
+    "america/belize": [
+        29
+    ],
+    "atlantic/bermuda": [
+        30
+    ],
+    "america/la_paz": [
+        31
+    ],
+    "america/curacao": [
+        32,
+        55
+    ],
+    "america/noronha": [
+        33
+    ],
+    "america/belem": [
+        33
+    ],
+    "america/fortaleza": [
+        33
+    ],
+    "america/recife": [
+        33
+    ],
+    "america/araguaina": [
+        33
+    ],
+    "america/maceio": [
+        33
+    ],
+    "america/bahia": [
+        33
+    ],
+    "america/sao_paulo": [
+        33
+    ],
+    "america/campo_grande": [
+        33
+    ],
+    "america/cuiaba": [
+        33
+    ],
+    "america/santarem": [
+        33
+    ],
+    "america/porto_velho": [
+        33
+    ],
+    "america/boa_vista": [
+        33
+    ],
+    "america/manaus": [
+        33
+    ],
+    "america/eirunepe": [
+        33
+    ],
+    "america/rio_branco": [
+        33
+    ],
+    "america/barbados": [
+        34
+    ],
+    "asia/brunei": [
+        35
+    ],
+    "asia/thimphu": [
+        36
+    ],
+    "undefined": [
+        37,
+        98
+    ],
+    "africa/gaborone": [
+        38
+    ],
+    "africa/bangui": [
+        39
+    ],
+    "america/st_johns": [
+        40
+    ],
+    "america/halifax": [
+        40
+    ],
+    "america/glace_bay": [
+        40
+    ],
+    "america/moncton": [
+        40
+    ],
+    "america/goose_bay": [
+        40
+    ],
+    "america/blanc-sablon": [
+        40
+    ],
+    "america/montreal": [
+        40
+    ],
+    "america/toronto": [
+        40
+    ],
+    "america/nipigon": [
+        40
+    ],
+    "america/thunder_bay": [
+        40
+    ],
+    "america/iqaluit": [
+        40
+    ],
+    "america/pangnirtung": [
+        40
+    ],
+    "america/resolute": [
+        40
+    ],
+    "america/atikokan": [
+        40
+    ],
+    "america/rankin_inlet": [
+        40
+    ],
+    "america/winnipeg": [
+        40
+    ],
+    "america/rainy_river": [
+        40
+    ],
+    "america/regina": [
+        40
+    ],
+    "america/swift_current": [
+        40
+    ],
+    "america/edmonton": [
+        40
+    ],
+    "america/cambridge_bay": [
+        40
+    ],
+    "america/yellowknife": [
+        40
+    ],
+    "america/inuvik": [
+        40
+    ],
+    "america/creston": [
+        40
+    ],
+    "america/dawson_creek": [
+        40
+    ],
+    "america/vancouver": [
+        40
+    ],
+    "america/whitehorse": [
+        40
+    ],
+    "america/dawson": [
+        40
+    ],
+    "indian/cocos": [
+        41
+    ],
+    "europe/zurich": [
+        42
+    ],
+    "america/santiago": [
+        43
+    ],
+    "pacific/easter": [
+        43
+    ],
+    "asia/shanghai": [
+        44
+    ],
+    "asia/harbin": [
+        44
+    ],
+    "asia/chongqing": [
+        44
+    ],
+    "asia/urumqi": [
+        44
+    ],
+    "asia/kashgar": [
+        44
+    ],
+    "africa/abidjan": [
+        45
+    ],
+    "africa/douala": [
+        46
+    ],
+    "africa/kinshasa": [
+        47
+    ],
+    "africa/lubumbashi": [
+        47
+    ],
+    "africa/brazzaville": [
+        48
+    ],
+    "pacific/rarotonga": [
+        49
+    ],
+    "america/bogota": [
+        50
+    ],
+    "indian/comoro": [
+        51
+    ],
+    "atlantic/cape_verde": [
+        52
+    ],
+    "america/costa_rica": [
+        53
+    ],
+    "america/havana": [
+        54
+    ],
+    "indian/christmas": [
+        56
+    ],
+    "america/cayman": [
+        57
+    ],
+    "asia/nicosia": [
+        58
+    ],
+    "europe/prague": [
+        59
+    ],
+    "europe/berlin": [
+        60
+    ],
+    "europe/busingen": [
+        60
+    ],
+    "africa/djibouti": [
+        61
+    ],
+    "america/dominica": [
+        62
+    ],
+    "europe/copenhagen": [
+        63
+    ],
+    "america/santo_domingo": [
+        64
+    ],
+    "africa/algiers": [
+        65
+    ],
+    "america/guayaquil": [
+        66
+    ],
+    "pacific/galapagos": [
+        66
+    ],
+    "africa/cairo": [
+        67
+    ],
+    "africa/asmara": [
+        68
+    ],
+    "africa/el_aaiun": [
+        69
+    ],
+    "europe/madrid": [
+        70
+    ],
+    "africa/ceuta": [
+        70
+    ],
+    "atlantic/canary": [
+        70
+    ],
+    "europe/tallinn": [
+        71
+    ],
+    "africa/addis_ababa": [
+        72
+    ],
+    "europe/helsinki": [
+        73
+    ],
+    "pacific/fiji": [
+        74
+    ],
+    "atlantic/stanley": [
+        75
+    ],
+    "europe/paris": [
+        76
+    ],
+    "atlantic/faroe": [
+        77
+    ],
+    "pacific/chuuk": [
+        78
+    ],
+    "pacific/pohnpei": [
+        78
+    ],
+    "pacific/kosrae": [
+        78
+    ],
+    "africa/libreville": [
+        79
+    ],
+    "europe/london": [
+        80
+    ],
+    "asia/tbilisi": [
+        81
+    ],
+    "europe/guernsey": [
+        82
+    ],
+    "africa/accra": [
+        83
+    ],
+    "europe/gibraltar": [
+        84
+    ],
+    "africa/conakry": [
+        85
+    ],
+    "america/guadeloupe": [
+        86,
+        213
+    ],
+    "africa/banjul": [
+        87
+    ],
+    "africa/bissau": [
+        88
+    ],
+    "africa/malabo": [
+        89
+    ],
+    "europe/athens": [
+        90
+    ],
+    "america/grenada": [
+        91
+    ],
+    "america/godthab": [
+        92
+    ],
+    "america/danmarkshavn": [
+        92
+    ],
+    "america/scoresbysund": [
+        92
+    ],
+    "america/thule": [
+        92
+    ],
+    "america/guatemala": [
+        93
+    ],
+    "america/cayenne": [
+        94
+    ],
+    "pacific/guam": [
+        95
+    ],
+    "america/guyana": [
+        96
+    ],
+    "asia/hong_kong": [
+        97
+    ],
+    "america/tegucigalpa": [
+        99
+    ],
+    "europe/zagreb": [
+        100
+    ],
+    "america/port-au-prince": [
+        101
+    ],
+    "europe/budapest": [
+        102
+    ],
+    "asia/jakarta": [
+        103
+    ],
+    "asia/pontianak": [
+        103
+    ],
+    "asia/makassar": [
+        103
+    ],
+    "asia/jayapura": [
+        103
+    ],
+    "europe/isle_of_man": [
+        104
+    ],
+    "asia/kolkata": [
+        105
+    ],
+    "indian/chagos": [
+        106
+    ],
+    "europe/dublin": [
+        107
+    ],
+    "asia/tehran": [
+        108
+    ],
+    "asia/baghdad": [
+        109
+    ],
+    "atlantic/reykjavik": [
+        110
+    ],
+    "asia/jerusalem": [
+        111
+    ],
+    "europe/rome": [
+        112
+    ],
+    "america/jamaica": [
+        113
+    ],
+    "europe/jersey": [
+        114
+    ],
+    "asia/amman": [
+        115
+    ],
+    "asia/tokyo": [
+        116
+    ],
+    "asia/almaty": [
+        117
+    ],
+    "asia/qyzylorda": [
+        117
+    ],
+    "asia/aqtobe": [
+        117
+    ],
+    "asia/aqtau": [
+        117
+    ],
+    "asia/oral": [
+        117
+    ],
+    "africa/nairobi": [
+        118
+    ],
+    "asia/bishkek": [
+        119
+    ],
+    "asia/phnom_penh": [
+        120
+    ],
+    "pacific/tarawa": [
+        121
+    ],
+    "pacific/enderbury": [
+        121
+    ],
+    "pacific/kiritimati": [
+        121
+    ],
+    "america/st_kitts": [
+        122
+    ],
+    "asia/seoul": [
+        123
+    ],
+    "europe/belgrade": [
+        124,
+        205
+    ],
+    "asia/kuwait": [
+        125
+    ],
+    "asia/vientiane": [
+        126
+    ],
+    "asia/beirut": [
+        127
+    ],
+    "africa/monrovia": [
+        128
+    ],
+    "africa/tripoli": [
+        129
+    ],
+    "america/st_lucia": [
+        130
+    ],
+    "europe/vaduz": [
+        131
+    ],
+    "asia/colombo": [
+        132
+    ],
+    "africa/maseru": [
+        133
+    ],
+    "europe/vilnius": [
+        134
+    ],
+    "europe/luxembourg": [
+        135
+    ],
+    "europe/riga": [
+        136
+    ],
+    "asia/macau": [
+        137
+    ],
+    "america/marigot": [
+        138
+    ],
+    "africa/casablanca": [
+        139
+    ],
+    "europe/monaco": [
+        140
+    ],
+    "europe/chisinau": [
+        141
+    ],
+    "indian/antananarivo": [
+        142
+    ],
+    "indian/maldives": [
+        143
+    ],
+    "america/mexico_city": [
+        144
+    ],
+    "america/cancun": [
+        144
+    ],
+    "america/merida": [
+        144
+    ],
+    "america/monterrey": [
+        144
+    ],
+    "america/matamoros": [
+        144
+    ],
+    "america/mazatlan": [
+        144
+    ],
+    "america/chihuahua": [
+        144
+    ],
+    "america/ojinaga": [
+        144
+    ],
+    "america/hermosillo": [
+        144
+    ],
+    "america/tijuana": [
+        144
+    ],
+    "america/santa_isabel": [
+        144
+    ],
+    "america/bahia_banderas": [
+        144
+    ],
+    "pacific/majuro": [
+        145
+    ],
+    "pacific/kwajalein": [
+        145
+    ],
+    "europe/skopje": [
+        146
+    ],
+    "africa/bamako": [
+        147
+    ],
+    "europe/malta": [
+        148
+    ],
+    "asia/rangoon": [
+        149
+    ],
+    "europe/podgorica": [
+        150
+    ],
+    "asia/ulaanbaatar": [
+        151
+    ],
+    "asia/hovd": [
+        151
+    ],
+    "asia/choibalsan": [
+        151
+    ],
+    "pacific/saipan": [
+        152
+    ],
+    "africa/maputo": [
+        153
+    ],
+    "africa/nouakchott": [
+        154
+    ],
+    "america/montserrat": [
+        155
+    ],
+    "america/martinique": [
+        156
+    ],
+    "indian/mauritius": [
+        157
+    ],
+    "africa/blantyre": [
+        158
+    ],
+    "asia/kuala_lumpur": [
+        159
+    ],
+    "asia/kuching": [
+        159
+    ],
+    "indian/mayotte": [
+        160
+    ],
+    "africa/windhoek": [
+        161
+    ],
+    "pacific/noumea": [
+        162
+    ],
+    "africa/niamey": [
+        163
+    ],
+    "pacific/norfolk": [
+        164
+    ],
+    "africa/lagos": [
+        165
+    ],
+    "america/managua": [
+        166
+    ],
+    "pacific/niue": [
+        167
+    ],
+    "europe/amsterdam": [
+        168
+    ],
+    "europe/oslo": [
+        169
+    ],
+    "asia/kathmandu": [
+        170
+    ],
+    "pacific/nauru": [
+        171
+    ],
+    "pacific/auckland": [
+        172
+    ],
+    "pacific/chatham": [
+        172
+    ],
+    "asia/muscat": [
+        173
+    ],
+    "asia/karachi": [
+        174
+    ],
+    "america/panama": [
+        175
+    ],
+    "pacific/pitcairn": [
+        176
+    ],
+    "america/lima": [
+        177
+    ],
+    "asia/manila": [
+        178
+    ],
+    "pacific/palau": [
+        179
+    ],
+    "pacific/port_moresby": [
+        180
+    ],
+    "europe/warsaw": [
+        181
+    ],
+    "america/puerto_rico": [
+        182
+    ],
+    "asia/pyongyang": [
+        183
+    ],
+    "europe/lisbon": [
+        184
+    ],
+    "atlantic/madeira": [
+        184
+    ],
+    "atlantic/azores": [
+        184
+    ],
+    "america/asuncion": [
+        185
+    ],
+    "asia/gaza": [
+        186
+    ],
+    "asia/hebron": [
+        186
+    ],
+    "pacific/tahiti": [
+        187
+    ],
+    "pacific/marquesas": [
+        187
+    ],
+    "pacific/gambier": [
+        187
+    ],
+    "asia/qatar": [
+        188
+    ],
+    "indian/reunion": [
+        189
+    ],
+    "europe/bucharest": [
+        190
+    ],
+    "europe/kaliningrad": [
+        191
+    ],
+    "europe/moscow": [
+        191
+    ],
+    "europe/volgograd": [
+        191
+    ],
+    "europe/samara": [
+        191
+    ],
+    "asia/yekaterinburg": [
+        191
+    ],
+    "asia/omsk": [
+        191
+    ],
+    "asia/novosibirsk": [
+        191
+    ],
+    "asia/novokuznetsk": [
+        191
+    ],
+    "asia/krasnoyarsk": [
+        191
+    ],
+    "asia/irkutsk": [
+        191
+    ],
+    "asia/yakutsk": [
+        191
+    ],
+    "asia/khandyga": [
+        191
+    ],
+    "asia/vladivostok": [
+        191
+    ],
+    "asia/sakhalin": [
+        191
+    ],
+    "asia/ust-nera": [
+        191
+    ],
+    "asia/magadan": [
+        191
+    ],
+    "asia/kamchatka": [
+        191
+    ],
+    "asia/anadyr": [
+        191
+    ],
+    "africa/kigali": [
+        192
+    ],
+    "asia/riyadh": [
+        193
+    ],
+    "africa/khartoum": [
+        194
+    ],
+    "africa/dakar": [
+        195
+    ],
+    "asia/singapore": [
+        196
+    ],
+    "atlantic/south_georgia": [
+        197
+    ],
+    "arctic/longyearbyen": [
+        198
+    ],
+    "pacific/guadalcanal": [
+        199
+    ],
+    "africa/freetown": [
+        200
+    ],
+    "america/el_salvador": [
+        201
+    ],
+    "europe/san_marino": [
+        202
+    ],
+    "africa/mogadishu": [
+        203
+    ],
+    "america/miquelon": [
+        204
+    ],
+    "africa/juba": [
+        206
+    ],
+    "africa/sao_tome": [
+        207
+    ],
+    "america/paramaribo": [
+        208
+    ],
+    "europe/bratislava": [
+        209
+    ],
+    "europe/ljubljana": [
+        210
+    ],
+    "europe/stockholm": [
+        211
+    ],
+    "africa/mbabane": [
+        212
+    ],
+    "indian/mahe": [
+        214
+    ],
+    "asia/damascus": [
+        215
+    ],
+    "america/grand_turk": [
+        216
+    ],
+    "africa/ndjamena": [
+        217
+    ],
+    "africa/lome": [
+        218
+    ],
+    "asia/bangkok": [
+        219
+    ],
+    "asia/dushanbe": [
+        220
+    ],
+    "pacific/fakaofo": [
+        221
+    ],
+    "asia/ashgabat": [
+        222
+    ],
+    "asia/dili": [
+        223
+    ],
+    "pacific/tongatapu": [
+        224
+    ],
+    "america/port_of_spain": [
+        225
+    ],
+    "africa/tunis": [
+        226
+    ],
+    "europe/istanbul": [
+        227
+    ],
+    "pacific/funafuti": [
+        228
+    ],
+    "asia/taipei": [
+        229
+    ],
+    "africa/dar_es_salaam": [
+        230
+    ],
+    "africa/kampala": [
+        231
+    ],
+    "europe/kiev": [
+        232
+    ],
+    "europe/uzhgorod": [
+        232
+    ],
+    "europe/zaporozhye": [
+        232
+    ],
+    "europe/simferopol": [
+        232
+    ],
+    "pacific/johnston": [
+        233
+    ],
+    "pacific/midway": [
+        233
+    ],
+    "pacific/wake": [
+        233
+    ],
+    "america/montevideo": [
+        234
+    ],
+    "america/new_york": [
+        235
+    ],
+    "america/detroit": [
+        235
+    ],
+    "america/kentucky/louisville": [
+        235
+    ],
+    "america/kentucky/monticello": [
+        235
+    ],
+    "america/indiana/indianapolis": [
+        235
+    ],
+    "america/indiana/vincennes": [
+        235
+    ],
+    "america/indiana/winamac": [
+        235
+    ],
+    "america/indiana/marengo": [
+        235
+    ],
+    "america/indiana/petersburg": [
+        235
+    ],
+    "america/indiana/vevay": [
+        235
+    ],
+    "america/chicago": [
+        235
+    ],
+    "america/indiana/tell_city": [
+        235
+    ],
+    "america/indiana/knox": [
+        235
+    ],
+    "america/menominee": [
+        235
+    ],
+    "america/north_dakota/center": [
+        235
+    ],
+    "america/north_dakota/new_salem": [
+        235
+    ],
+    "america/north_dakota/beulah": [
+        235
+    ],
+    "america/denver": [
+        235
+    ],
+    "america/boise": [
+        235
+    ],
+    "america/shiprock": [
+        235
+    ],
+    "america/phoenix": [
+        235
+    ],
+    "america/los_angeles": [
+        235
+    ],
+    "america/anchorage": [
+        235
+    ],
+    "america/juneau": [
+        235
+    ],
+    "america/sitka": [
+        235
+    ],
+    "america/yakutat": [
+        235
+    ],
+    "america/nome": [
+        235
+    ],
+    "america/adak": [
+        235
+    ],
+    "america/metlakatla": [
+        235
+    ],
+    "pacific/honolulu": [
+        235
+    ],
+    "asia/samarkand": [
+        236
+    ],
+    "asia/tashkent": [
+        236
+    ],
+    "europe/vatican": [
+        237
+    ],
+    "america/st_vincent": [
+        238
+    ],
+    "america/caracas": [
+        239
+    ],
+    "america/tortola": [
+        240
+    ],
+    "america/st_thomas": [
+        241
+    ],
+    "asia/ho_chi_minh": [
+        242
+    ],
+    "pacific/efate": [
+        243
+    ],
+    "pacific/wallis": [
+        244
+    ],
+    "pacific/apia": [
+        245
+    ],
+    "asia/aden": [
+        246
+    ],
+    "africa/johannesburg": [
+        247
+    ],
+    "africa/lusaka": [
+        248
+    ],
+    "africa/harare": [
+        249
+    ]
+}
