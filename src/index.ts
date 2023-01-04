@@ -15,7 +15,7 @@ const header = {
 };
 
 
-const options = {includeScore:0.9,useExtendedSearch:true, keys: ['name.common', 'name.official','cca2','cca3','independent','capital','region','subregion','continents','languages','timezones','population','status','unMember','altSpellings',"currencies.*.name"] }
+const options = {includeScore:true,useExtendedSearch:true, keys: ['name.common', 'name.official','cca2','cca3','independent','capital','region','subregion','continents','languages','timezones','unMember','altSpellings',"borders"] }
 
 // Create the Fuse index
 const myIndex = Fuse.createIndex(options.keys, countries)
@@ -38,27 +38,27 @@ new Response(JSON.stringify({ code: 500, Messge: error.message || 'Server Error'
   status: 500,
 })
 
-router.get('/api', async ({ params }, env) => {
+router.get('/api/v1', async ({ params }, env) => {
   return new Response(JSON.stringify(countries), {
     headers: header
   })
 })
 
-router.get('/api/search', async ({ query }, env) => {
+router.get('/api/v1/search', async ({ query }, env) => {
   const result = fuse.search(query)
   return new Response(JSON.stringify(result), {
     headers: header
   })
 })
 
-router.get('/api/query', async ({ query }, env) => {
-  const result = jsonQuery(query.query,{data:countries});
+router.get('/api/v1/query', async ({ query }, env) => {
+  const result = jsonQuery(decodeURI(query.query),{data:countries});
   return new Response(JSON.stringify(result?.value), {
     headers: header
   })
 })
 
-router.get('/api/:id', async ({ params }, env) => {
+router.get('/api/v1/:id', async ({ params }, env) => {
   let id:number = index[decodeURI(params.id?.toLowerCase())];
   return responseByIndex(id);
 })
