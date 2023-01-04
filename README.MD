@@ -101,6 +101,12 @@ https://country.saifali.in/api/v1/query?query=['*area<180 | area>3600']
 * [REST Countries Python]
 * [world-currencies]
 
+
+License
+=======
+[Mozilla Public License] MPL 2.0
+
+
 [world-currencies]: https://github.com/wiredmax/world-currencies
 [REST Countries Node.js]: https://github.com/aredo/restcountries
 [REST Countries Ruby]: https://github.com/davidesantangelo/restcountry
@@ -108,3 +114,5 @@ https://country.saifali.in/api/v1/query?query=['*area<180 | area>3600']
 [REST Countries Python]: https://github.com/SteinRobert/python-restcountries
 [Countries of the world]: http://countries.petethompson.net
 [REST Countries]: https://gitlab.com/amatos/rest-countries
+[Mozilla Public License]: https://www.mozilla.org/en-US/MPL/2.0/
+
