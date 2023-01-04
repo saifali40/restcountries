@@ -67,13 +67,13 @@ This API will return search results that have a score of greater than 0.6. The h
 | Token     	| Match type                 	| Description                        	| Exmpale Apis                                                 	|
 |-----------	|----------------------------	|------------------------------------	|--------------------------------------------------------------	|
 | jscript   	| fuzzy-match                	| Items that fuzzy match jscript     	| https://country.saifali.in/api/v1/search?name.common=india   	|
-| =scheme   	| exact-match                	| Items that are india               	| https://country.saifali.in/api/v1/search?name.common==india  	|
-| 'python   	| include-match              	| Items that include india           	| https://country.saifali.in/api/v1/search?name.common='india  	|
-| !ruby     	| inverse-exact-match        	| Items that do not include india    	| https://country.saifali.in/api/v1/search?name.common=!india  	|
-| ^java     	| prefix-exact-match         	| Items that start with india        	| https://country.saifali.in/api/v1/search?name.common=^india  	|
-| !^earlang 	| inverse-prefix-exact-match 	| Items that do not start with india 	| https://country.saifali.in/api/v1/search?name.common=!^india 	|
-| .js$      	| suffix-exact-match         	| Items that end with india          	| https://country.saifali.in/api/v1/search?name.common=india$  	|
-| !.go$     	| inverse-suffix-exact-match 	| Items that do not end with india   	| https://country.saifali.in/api/v1/search?name.common=!india$ 	|
+| =india       	| exact-match                	| Items that are india               	| https://country.saifali.in/api/v1/search?name.common==india  	|
+| 'india       	| include-match              	| Items that include india           	| https://country.saifali.in/api/v1/search?name.common='india  	|
+| !india     	| inverse-exact-match        	| Items that do not include india    	| https://country.saifali.in/api/v1/search?name.common=!india  	|
+| ^india     	| prefix-exact-match         	| Items that start with india        	| https://country.saifali.in/api/v1/search?name.common=^india  	|
+| !^india    	| inverse-prefix-exact-match 	| Items that do not start with india 	| https://country.saifali.in/api/v1/search?name.common=!^india 	|
+| india$      	| suffix-exact-match         	| Items that end with india          	| https://country.saifali.in/api/v1/search?name.common=india$  	|
+| !india$     	| inverse-suffix-exact-match 	| Items that do not end with india   	| https://country.saifali.in/api/v1/search?name.common=!india$ 	|
 
 
 
