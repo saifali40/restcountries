@@ -38,6 +38,10 @@ new Response(JSON.stringify({ code: 500, Messge: error.message || 'Server Error'
   status: 500,
 })
 
+router.get('/', async ({ params }, env) => {
+  return Response.redirect('https://saifali40.github.io/restcountries', 301);
+})
+
 router.get('/api/v1', async ({ params }, env) => {
   return new Response(JSON.stringify(countries), {
     headers: header

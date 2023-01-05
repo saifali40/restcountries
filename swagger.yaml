@@ -14,7 +14,7 @@ externalDocs:
   description: github Repository
   url: https://github.com/saifali40/restcountries
 servers:
-  - url: https://country.hiveboard.workers.dev/api/v1
+  - url: https://country.saifali.in/api/v1
 tags:
   - name: Countries
     description: This project is a resource for accessing information about countries around the world through a REST API
