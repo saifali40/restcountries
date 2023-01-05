@@ -1,0 +1,514 @@
+openapi: 3.0.3
+info:
+  title: Rest Countries
+  description: |-
+    This project is a resource for accessing information about countries around the world through a REST API (Application Programming Interface). It is inspired by the website restcountries.com and is freely available for anyone to use. The project is open source, meaning that the source code is publicly available and can be modified by anyone. It allows users to retrieve data about each country, including details about its geography, population, and more, through simple API calls. Whether you're a developer looking to build a application that uses country data or just someone interested in learning more about different countries, this project is a useful resource.
+    
+  contact:
+    email: mail@saifali.in
+  license:
+    name: Mozilla Public License Version 2.0
+    url: https://www.mozilla.org/en-US/MPL/2.0/
+  version: 1.0.0
+externalDocs:
+  description: github Repository
+  url: https://github.com/saifali40/restcountries
+servers:
+  - url: https://country.hiveboard.workers.dev/api/v1
+tags:
+  - name: Countries
+    description: This project is a resource for accessing information about countries around the world through a REST API
+    externalDocs:
+      description: Find out more
+      url: https://github.com/saifali40/restcountries
+  
+paths:
+  /:
+    get:
+      tags:
+        - Countries
+      summary: All Country details
+      description: Returns all countries and its details in single api request
+      operationId: allCountries
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Country'          
+          
+        '500':
+          description: Server Error
+          
+  /{uniqueIds}:
+    get:
+      tags:
+        - Countries
+      summary: Find pet by name cca2 cca3 fifa
+      description: Returns a single pet
+      operationId: getPetById
+      parameters:
+        - name: uniqueIds
+          in: path
+          description: name, cca2, cca3, fifa
+          required: true
+          schema:
+            type: string
+        
+            example: india
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Country'          
+        
+        '404':
+          description: not found
+    
+components:
+  schemas:
+    Country:
+      type: object
+      properties:
+        name:
+          type: object
+          properties:
+            common:
+              type: string
+              example: "India"
+            official:
+              type: string
+              example: "Republic of India"
+            nativeName:
+              type: object
+              properties:
+                eng:
+                  type: object
+                  properties:
+                    official:
+                      type: string
+                      example: "Republic of India"
+                    common:
+                      type: string
+                      example: "India"
+                hin:
+                  type: object
+                  properties:
+                    official:
+                      type: string
+                      example: "भारत गणराज्य"
+                    common:
+                      type: string
+                      example: "भारत"
+                tam:
+                  type: object
+                  properties:
+                    official:
+                      type: string
+                      example: "இந்தியக் குடியரசு"
+                    common:
+                      type: string
+                      example: "இந்தியா"
+        tld:
+          type: array
+          items:
+            type: string
+          example: 
+            - ".in"
+        cca2:
+          type: string
+          example: "IN"
+        ccn3:
+          type: string
+          example: "356"
+        cca3:
+          type: string
+          example: "IND"
+        cioc:
+          type: string
+          example: "IND"
+        fifa:
+          type: string
+          example: "IND"
+        independent:
+          type: boolean
+          example: true
+        status:
+          type: string
+          example: "officially-assigned"
+        unMember:
+          type: boolean
+          example: true
+        currencies:
+          type: object
+          properties:
+            INR:
+              type: object
+              properties:
+                name:
+                  type: string
+                  example: "Indian rupee"
+                symbol:
+                  type: string
+                  example: "₹"
+        idd:
+          type: object
+          properties:
+            root:
+              type: string
+              example: "+9"
+            suffixes:
+              type: array
+              items:
+                type: string
+              example: 
+                - "1"
+        capital:
+          type: array
+          items:
+            type: string
+          example: 
+            - "New Delhi"
+        altSpellings:
+          type: array
+          items:
+            type: string
+          example: 
+            - "IN"
+            - "Bhārat"
+            - "Republic of India"
+            - "Bharat Ganrajya"
+            - "இந்தியா"
+        region:
+          type: string
+          example: "Asia"
+        subregion:
+          type: string
+          example: "Southern Asia"
+        continents:
+          type: array
+          items:
+            type: string
+          example: 
+            - "Asia"
+        languages:
+          type: object
+          properties:
+            eng:
+              type: string
+              example: "English"
+            hin:
+              type: string
+              example: "Hindi"
+            tam:
+              type: string
+              example: "Tamil"
+        translations:
+          type: object
+          properties:
+            ara:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "جمهورية الهند"
+                common:
+                  type: string
+                  example: "الهند"
+            bre:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Republik India"
+                common:
+                  type: string
+                  example: "India"
+            ces:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Indická republika"
+                common:
+                  type: string
+                  example: "Indie"
+            cym:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Republic of India"
+                common:
+                  type: string
+                  example: "India"
+            deu:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Republik Indien"
+                common:
+                  type: string
+                  example: "Indien"
+            est:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "India Vabariik"
+                common:
+                  type: string
+                  example: "India"
+            fin:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Intian tasavalta"
+                common:
+                  type: string
+                  example: "Intia"
+            fra:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "République de l'Inde"
+                common:
+                  type: string
+                  example: "Inde"
+            hrv:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Republika Indija"
+                common:
+                  type: string
+                  example: "Indija"
+            hun:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Indiai Köztársaság"
+                common:
+                  type: string
+                  example: "India"
+            ita:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Repubblica dell'India"
+                common:
+                  type: string
+                  example: "India"
+            jpn:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "インド共和国"
+                common:
+                  type: string
+                  example: "インド"
+            kor:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "인도 공화국"
+                common:
+                  type: string
+                  example: "인도"
+            nld:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Republiek India"
+                common:
+                  type: string
+                  example: "India"
+            per:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "جمهوری هندوستان"
+                common:
+                  type: string
+                  example: "هند"
+            pol:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Republika Indii"
+                common:
+                  type: string
+                  example: "Indie"
+            por:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "República da Índia"
+                common:
+                  type: string
+                  example: "Índia"
+            rus:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Республика Индия"
+                common:
+                  type: string
+                  example: "Индия"
+            slk:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Indická republika"
+                common:
+                  type: string
+                  example: "India"
+            spa:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "República de la India"
+                common:
+                  type: string
+                  example: "India"
+            swe:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "Republiken Indien"
+                common:
+                  type: string
+                  example: "Indien"
+            urd:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "جمہوریہ بھارت"
+                common:
+                  type: string
+                  example: "بھارت"
+            zho:
+              type: object
+              properties:
+                official:
+                  type: string
+                  example: "印度共和国"
+                common:
+                  type: string
+                  example: "印度"
+        latlng:
+          type: array
+          items:
+            type: number
+          example: 
+            - 20
+            - 77
+        landlocked:
+          type: boolean
+          example: false
+        borders:
+          type: array
+          items:
+            type: string
+          example: 
+            - "BGD"
+            - "BTN"
+            - "MMR"
+            - "CHN"
+            - "NPL"
+            - "PAK"
+        area:
+          type: number
+          example: 3287590
+        flag:
+          type: string
+          example: "🇮🇳"
+        demonyms:
+          type: object
+          properties:
+            eng:
+              type: object
+              properties:
+                f:
+                  type: string
+                  example: "Indian"
+                m:
+                  type: string
+                  example: "Indian"
+            fra:
+              type: object
+              properties:
+                f:
+                  type: string
+                  example: "Indienne"
+                m:
+                  type: string
+                  example: "Indien"
+        flags:
+          type: array
+          items:
+            type: string
+          example: 
+            - "https://flagcdn.com/in.svg"
+            - "https://flagcdn.com/w320/in.png"
+        population:
+          type: number
+          example: 1380004385
+        maps:
+          type: object
+          properties:
+            googleMaps:
+              type: string
+              example: "https://goo.gl/maps/WSk3fLwG4vtPQetp7"
+            openStreetMaps:
+              type: string
+              example: "https://www.openstreetmap.org/relation/304716"
+        gini:
+          type: object
+          properties:
+            2011:
+              type: number
+              example: 35.7
+        car:
+          type: object
+          properties:
+            signs:
+              type: array
+              items:
+                type: string
+              example: 
+                - "IND"
+            side:
+              type: string
+              example: "left"
+        timezones:
+          type: array
+          items:
+            type: string
+          example: 
+            - "Asia/Kolkata"
+        postal:
+          example: "[1-9][0-9]{5}"
+          type: string
