@@ -86,10 +86,13 @@ https://country.saifali.in/api/v1/query?query=[query]
 ```
 
 #### exmple
+getting by area
 ``` html
-[https://country.saifali.in/api/v1/query?query=['*area<180 | area>3600']](https://country.saifali.in/api/v1/query?query=[*cca2=AW])
+https://country.saifali.in/api/v1/query?query=[*area=3287590]
 ```
 
+### Note:
+Popualtion is not accurate, as people are hard working on it, its hard to keep track and keep the repository up to dated.
 
 
 ## Similar projects
