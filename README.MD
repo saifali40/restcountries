@@ -87,7 +87,7 @@ https://country.saifali.in/api/v1/query?query=[query]
 
 #### exmple
 ``` html
-https://country.saifali.in/api/v1/query?query=['*area<180 | area>3600']
+[https://country.saifali.in/api/v1/query?query=['*area<180 | area>3600']](https://country.saifali.in/api/v1/query?query=[*cca2=AW])
 ```
 
 
